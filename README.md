@@ -14,8 +14,22 @@ Recognizes selected hand gestures: Hello, Yes, No, Thank You, and Help.
 
 **Folder:** `Project-2-Sign-Language-Detection/`
 
-### 3. Nationality Detection
-**Status:** Planned
+### 3. Nationality and Face Analysis
+
+A Python GUI application for image-based face analysis and clothing-colour estimation.
+
+**Features:**
+- Image upload and preview
+- Nationality/region selection
+- Estimated age and facial-expression analysis
+- Clothing-region colour estimation
+- Results displayed in a graphical interface
+
+**Folder:** `Project-3-Nationality-Detection/`
+
+**Technologies:** Python, Tkinter, OpenCV, NumPy, Pillow, DeepFace.
+
+**Note:** Nationality is selected manually. Age and facial-expression results are estimates.
 
 ### 4. Long Hair Detection
 **Status:** Planned
