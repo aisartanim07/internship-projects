@@ -1,0 +1,763 @@
+{
+  "sha": "2d591d4663b3faf778377f6b4377285a96262cb5",
+  "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/2d591d4663b3faf778377f6b4377285a96262cb5",
+  "tree": [
+    {
+      "path": "AgeGenderDemo.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff9f7c24f3b89fcfef2793bfeefeb9ae98f21e9f",
+      "size": 1439909,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/ff9f7c24f3b89fcfef2793bfeefeb9ae98f21e9f"
+    },
+    {
+      "path": "DataPreparationCode",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "30eaa79f3f29fc513566bb708f0c733342ff6660",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/30eaa79f3f29fc513566bb708f0c733342ff6660"
+    },
+    {
+      "path": "DataPreparationCode/create_lmdb_test_fold_0.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cddea0a1c61b8f88ea0daacceb72ea8443e63bbc",
+      "size": 1718,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/cddea0a1c61b8f88ea0daacceb72ea8443e63bbc"
+    },
+    {
+      "path": "DataPreparationCode/create_lmdb_test_fold_1.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a48946f68003315cfe46e369420d7d728db52453",
+      "size": 1718,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/a48946f68003315cfe46e369420d7d728db52453"
+    },
+    {
+      "path": "DataPreparationCode/create_lmdb_test_fold_2.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1403a097ab4bfa6cc3422181b9d0c5996d3b7113",
+      "size": 1718,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/1403a097ab4bfa6cc3422181b9d0c5996d3b7113"
+    },
+    {
+      "path": "DataPreparationCode/create_lmdb_test_fold_3.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c60ac0c4f127b953e778a2454ab682bcd5b37674",
+      "size": 1718,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/c60ac0c4f127b953e778a2454ab682bcd5b37674"
+    },
+    {
+      "path": "DataPreparationCode/create_lmdb_test_fold_4.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb55dfdce66965ab711a7b01dff3583ce7d06194",
+      "size": 1718,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/bb55dfdce66965ab711a7b01dff3583ce7d06194"
+    },
+    {
+      "path": "DataPreparationCode/create_train_val_txt_files.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7f4b204f12cd1aab8d8fab30c1a34af181bc682",
+      "size": 6062,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/c7f4b204f12cd1aab8d8fab30c1a34af181bc682"
+    },
+    {
+      "path": "DataPreparationCode/make_mean_imag_test_fold_is_0.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19d0949f61a0660dc4d29ffd33bdb1dad623fa89",
+      "size": 237,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/19d0949f61a0660dc4d29ffd33bdb1dad623fa89"
+    },
+    {
+      "path": "DataPreparationCode/make_mean_imag_test_fold_is_1.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4188bc1441b2b5f0e8da16a1c9205c9ceb0373ca",
+      "size": 237,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/4188bc1441b2b5f0e8da16a1c9205c9ceb0373ca"
+    },
+    {
+      "path": "DataPreparationCode/make_mean_imag_test_fold_is_2.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c8a1b97aa7ea9154677ebb9856c129611ddaa97",
+      "size": 237,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/1c8a1b97aa7ea9154677ebb9856c129611ddaa97"
+    },
+    {
+      "path": "DataPreparationCode/make_mean_imag_test_fold_is_3.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5efb489de3f0dfc8f1a028dadf6429994cfbe55d",
+      "size": 237,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/5efb489de3f0dfc8f1a028dadf6429994cfbe55d"
+    },
+    {
+      "path": "DataPreparationCode/make_mean_imag_test_fold_is_4.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "994e7ce1e00da0f04a1a5eb29999692ce54775d1",
+      "size": 237,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/994e7ce1e00da0f04a1a5eb29999692ce54775d1"
+    },
+    {
+      "path": "EmotiW_Demo.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e07d198c773d7e55a619197faf7e0601ad690fd",
+      "size": 3388891,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/8e07d198c773d7e55a619197faf7e0601ad690fd"
+    },
+    {
+      "path": "Folds",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "13e915b4f7f58217605b9bb229ea7edad336fc9c",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/13e915b4f7f58217605b9bb229ea7edad336fc9c"
+    },
+    {
+      "path": "Folds/original_txt_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aaa62fb847a0ce3bd2807cc3f435f195db79a24e",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/aaa62fb847a0ce3bd2807cc3f435f195db79a24e"
+    },
+    {
+      "path": "Folds/original_txt_files/fold_0_data.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaeabf7dca0728f92581450e970eed32e3d5332f",
+      "size": 364513,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/eaeabf7dca0728f92581450e970eed32e3d5332f"
+    },
+    {
+      "path": "Folds/original_txt_files/fold_1_data.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f0727e8d3c2eead7fbc332c4b8b22a53864eea2",
+      "size": 305495,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/0f0727e8d3c2eead7fbc332c4b8b22a53864eea2"
+    },
+    {
+      "path": "Folds/original_txt_files/fold_2_data.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c016b9e1eccc37ce3f602f4d220ebad4f2d75175",
+      "size": 322170,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/c016b9e1eccc37ce3f602f4d220ebad4f2d75175"
+    },
+    {
+      "path": "Folds/original_txt_files/fold_3_data.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27d99b2cf15bc21b3359bdd59e3fb9efe2dd484c",
+      "size": 286276,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/27d99b2cf15bc21b3359bdd59e3fb9efe2dd484c"
+    },
+    {
+      "path": "Folds/original_txt_files/fold_4_data.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "145e2e23682a01d240bd2bbe3d3870e4d837b67a",
+      "size": 316102,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/145e2e23682a01d240bd2bbe3d3870e4d837b67a"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a93491156913f85c4df6dbc05a1e7ec4a752d733",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/a93491156913f85c4df6dbc05a1e7ec4a752d733"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "927101a9a6339ebda663cba82a13cbd0ff125476",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/927101a9a6339ebda663cba82a13cbd0ff125476"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/age_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afe7994baa6f67b501693b5193ea68e4148f7384",
+      "size": 298042,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/afe7994baa6f67b501693b5193ea68e4148f7384"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/age_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a814838f17b33f25858c6d588ed481f81b564db",
+      "size": 833175,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/5a814838f17b33f25858c6d588ed481f81b564db"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/age_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b8fba16208f480e6e2833b2d946d55566df1e47",
+      "size": 91184,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/3b8fba16208f480e6e2833b2d946d55566df1e47"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/age_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5275f365287cf4b4cd89048a0f6fbcbd377f37da",
+      "size": 90454,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/5275f365287cf4b4cd89048a0f6fbcbd377f37da"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/gender_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3290fcf179ca53fb1c3f596eb5dfa781cff34f0b",
+      "size": 276514,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/3290fcf179ca53fb1c3f596eb5dfa781cff34f0b"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/gender_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "497bbe8069bfd1a865cac5a1f14c83a8a2acf6ac",
+      "size": 864373,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/497bbe8069bfd1a865cac5a1f14c83a8a2acf6ac"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/gender_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b0b2543c6876dba4f4c87aed8d3769e38d3af91",
+      "size": 95426,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/6b0b2543c6876dba4f4c87aed8d3769e38d3af91"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_0/gender_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e3882a18074560a0a1f0eeaa76653edf55de371",
+      "size": 94448,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/1e3882a18074560a0a1f0eeaa76653edf55de371"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2f321859fdb42c1f22b0bb30b2fbe0dc1f8a9804",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/2f321859fdb42c1f22b0bb30b2fbe0dc1f8a9804"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/age_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38f3497546fe6a50cafe26d2d06654669e9b672b",
+      "size": 216680,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/38f3497546fe6a50cafe26d2d06654669e9b672b"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/age_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9791577b2705e7f8cb49f9937775671bd90e5b19",
+      "size": 904860,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/9791577b2705e7f8cb49f9937775671bd90e5b19"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/age_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05e37d59016ce7eef9721953e3fe5495b111cbd3",
+      "size": 100372,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/05e37d59016ce7eef9721953e3fe5495b111cbd3"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/age_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8198d07cb173422b723618080c1281103700c12f",
+      "size": 100130,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/8198d07cb173422b723618080c1281103700c12f"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/gender_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ab9c443f297f34535d1d29bd645e25d095e79f6",
+      "size": 253953,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/4ab9c443f297f34535d1d29bd645e25d095e79f6"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/gender_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "462ac9d3ebac574e4adab169f1d91876fc560ed4",
+      "size": 882855,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/462ac9d3ebac574e4adab169f1d91876fc560ed4"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/gender_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "537b9ce41cf069e52fa9e8d92b0caa997dca44f0",
+      "size": 98537,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/537b9ce41cf069e52fa9e8d92b0caa997dca44f0"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_1/gender_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a74f763cb083d92e230013bdb0efbbc6a089c70",
+      "size": 98526,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/3a74f763cb083d92e230013bdb0efbbc6a089c70"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65356a53461b49b5c60fbb07620793c2696a4dad",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/65356a53461b49b5c60fbb07620793c2696a4dad"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/age_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78022fde120a0b5def6f186e4e5b1e361b04d891",
+      "size": 234332,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/78022fde120a0b5def6f186e4e5b1e361b04d891"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/age_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29b6deb5d445297bbb48ddfab5ea7ec97d7d1051",
+      "size": 887099,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/29b6deb5d445297bbb48ddfab5ea7ec97d7d1051"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/age_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bff6061843daa0fb14f75c25add9fc6019dc6773",
+      "size": 99249,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/bff6061843daa0fb14f75c25add9fc6019dc6773"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/age_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73eadc4a55c6188e1a0c54ee5e9a658e83103bac",
+      "size": 100242,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/73eadc4a55c6188e1a0c54ee5e9a658e83103bac"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/gender_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c47e54b7028b4375405160a96d35abbe441b80b9",
+      "size": 223939,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/c47e54b7028b4375405160a96d35abbe441b80b9"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/gender_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05c88f10bb331f8e657aef173e8a6fded4200aec",
+      "size": 911330,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/05c88f10bb331f8e657aef173e8a6fded4200aec"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/gender_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "448bf66d2b134a8832d361a32d7e5cd6686f1876",
+      "size": 102063,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/448bf66d2b134a8832d361a32d7e5cd6686f1876"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_2/gender_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3473d94f0d9062a4c6d9f3b9259de6e9e2a4653",
+      "size": 100068,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/e3473d94f0d9062a4c6d9f3b9259de6e9e2a4653"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "835f567e0955864e858215a46a726c7963b30a30",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/835f567e0955864e858215a46a726c7963b30a30"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/age_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03318e730559ee60b56553dd3aced30593347cd4",
+      "size": 211551,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/03318e730559ee60b56553dd3aced30593347cd4"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/age_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c792371df6347a00cffc5f0fa0f70cbd6e6c495f",
+      "size": 908288,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/c792371df6347a00cffc5f0fa0f70cbd6e6c495f"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/age_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "532853f72dad1280a7ac2caf7ebbf5f8728a43b1",
+      "size": 101684,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/532853f72dad1280a7ac2caf7ebbf5f8728a43b1"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/age_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce4275689c7b84d754cf8f93b6bb979fe7bc161e",
+      "size": 101833,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/ce4275689c7b84d754cf8f93b6bb979fe7bc161e"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/gender_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "521b1a40abe74ad87b33289c5be77101a3d69cb8",
+      "size": 236227,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/521b1a40abe74ad87b33289c5be77101a3d69cb8"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/gender_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bede44c52a425595f1ea6623e12bd0e73db5139",
+      "size": 899116,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/8bede44c52a425595f1ea6623e12bd0e73db5139"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/gender_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "131545897dad597e196b24653ba1cac9e57a88ba",
+      "size": 99128,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/131545897dad597e196b24653ba1cac9e57a88ba"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_3/gender_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b975b84caa73008b2da634f4b73eecba9b6eec6",
+      "size": 99993,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/0b975b84caa73008b2da634f4b73eecba9b6eec6"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08ec33ea167646c406705c5a006c77112526fdf7",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/08ec33ea167646c406705c5a006c77112526fdf7"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/age_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4f91fb16ab835a1bac4ba0f816452b7aaa1a206",
+      "size": 261136,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/f4f91fb16ab835a1bac4ba0f816452b7aaa1a206"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/age_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "143579846687c728b8097af0c08d4c8d278a671c",
+      "size": 865490,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/143579846687c728b8097af0c08d4c8d278a671c"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/age_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acebab9c16060448323b6dda44d96ea275254494",
+      "size": 96353,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/acebab9c16060448323b6dda44d96ea275254494"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/age_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f94ae75c2ef1a782bfb21ba81c768429959e14d4",
+      "size": 95045,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/f94ae75c2ef1a782bfb21ba81c768429959e14d4"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/gender_test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9a464cfd89a819f024af0edfc151980538d5708",
+      "size": 244772,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/d9a464cfd89a819f024af0edfc151980538d5708"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/gender_train.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6cbcb28b14ed2360e57b926e239493e40ad2d7b",
+      "size": 890957,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/e6cbcb28b14ed2360e57b926e239493e40ad2d7b"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/gender_train_subset.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4be4caefb37338f2c2798079e7975ed024294692",
+      "size": 98287,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/4be4caefb37338f2c2798079e7975ed024294692"
+    },
+    {
+      "path": "Folds/train_val_txt_files_per_fold/test_fold_is_4/gender_val.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3676078f94ec855d9d0152eebf58462ebbb07de",
+      "size": 99606,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/d3676078f94ec855d9d0152eebf58462ebbb07de"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ec4803b2331ffbd7e34ce525c7176fee4e5f578",
+      "size": 1646,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/2ec4803b2331ffbd7e34ce525c7176fee4e5f578"
+    },
+    {
+      "path": "age_net_definitions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7928326c468ee6b06081ebacf8ff0223c24e5f7c",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/7928326c468ee6b06081ebacf8ff0223c24e5f7c"
+    },
+    {
+      "path": "age_net_definitions/deploy.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fcfff3394a159a384858439db31e33fb0b81165",
+      "size": 2308,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/5fcfff3394a159a384858439db31e33fb0b81165"
+    },
+    {
+      "path": "age_net_definitions/solver_test_fold_is_0.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d675f4dc85e6cf857d0635b599e8c6530e3335d4",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/d675f4dc85e6cf857d0635b599e8c6530e3335d4"
+    },
+    {
+      "path": "age_net_definitions/solver_test_fold_is_1.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2dd4f15af3aa4eba6cd7a5417f6824fa9fa51cf8",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/2dd4f15af3aa4eba6cd7a5417f6824fa9fa51cf8"
+    },
+    {
+      "path": "age_net_definitions/solver_test_fold_is_2.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ab8cf8ec68aced0259a03cb4a769156b0f18b66",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/7ab8cf8ec68aced0259a03cb4a769156b0f18b66"
+    },
+    {
+      "path": "age_net_definitions/solver_test_fold_is_3.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51678eb588e60df12fe369d4cc8334cb83b6e6b6",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/51678eb588e60df12fe369d4cc8334cb83b6e6b6"
+    },
+    {
+      "path": "age_net_definitions/solver_test_fold_is_4.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2a0aa49a8466e28d8771dbf7125fba61b0b1844",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/e2a0aa49a8466e28d8771dbf7125fba61b0b1844"
+    },
+    {
+      "path": "age_net_definitions/train_val_test_fold_is_0.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b72dbedcbd3cf390d5744a0bb7a4ae358ca368e",
+      "size": 4286,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/7b72dbedcbd3cf390d5744a0bb7a4ae358ca368e"
+    },
+    {
+      "path": "age_net_definitions/train_val_test_fold_is_1.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bde53840e42382c42021b318a81bb9b1a0a35bce",
+      "size": 4286,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/bde53840e42382c42021b318a81bb9b1a0a35bce"
+    },
+    {
+      "path": "age_net_definitions/train_val_test_fold_is_2.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "277578bbb0f00610efcb6db8fad53420b42f5eb7",
+      "size": 4286,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/277578bbb0f00610efcb6db8fad53420b42f5eb7"
+    },
+    {
+      "path": "age_net_definitions/train_val_test_fold_is_3.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a7759dba8f6487462f56b528f5a9f59134564cf",
+      "size": 4286,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/3a7759dba8f6487462f56b528f5a9f59134564cf"
+    },
+    {
+      "path": "age_net_definitions/train_val_test_fold_is_4.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7131809516da648b82c140f34f0e19c4d7e41741",
+      "size": 4286,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/7131809516da648b82c140f34f0e19c4d7e41741"
+    },
+    {
+      "path": "gender_net_definitions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ba734b2192132243f6c84a56b2d2b23e821d585",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/6ba734b2192132243f6c84a56b2d2b23e821d585"
+    },
+    {
+      "path": "gender_net_definitions/deploy.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0f7cb8c554782edfa32753891b49c9d69e1af3b",
+      "size": 2309,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/a0f7cb8c554782edfa32753891b49c9d69e1af3b"
+    },
+    {
+      "path": "gender_net_definitions/solver_test_fold_is_0.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d675f4dc85e6cf857d0635b599e8c6530e3335d4",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/d675f4dc85e6cf857d0635b599e8c6530e3335d4"
+    },
+    {
+      "path": "gender_net_definitions/solver_test_fold_is_1.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2dd4f15af3aa4eba6cd7a5417f6824fa9fa51cf8",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/2dd4f15af3aa4eba6cd7a5417f6824fa9fa51cf8"
+    },
+    {
+      "path": "gender_net_definitions/solver_test_fold_is_2.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ab8cf8ec68aced0259a03cb4a769156b0f18b66",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/7ab8cf8ec68aced0259a03cb4a769156b0f18b66"
+    },
+    {
+      "path": "gender_net_definitions/solver_test_fold_is_3.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51678eb588e60df12fe369d4cc8334cb83b6e6b6",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/51678eb588e60df12fe369d4cc8334cb83b6e6b6"
+    },
+    {
+      "path": "gender_net_definitions/solver_test_fold_is_4.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2a0aa49a8466e28d8771dbf7125fba61b0b1844",
+      "size": 266,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/e2a0aa49a8466e28d8771dbf7125fba61b0b1844"
+    },
+    {
+      "path": "gender_net_definitions/train_val_test_fold_is_0.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b41e05926e3191fca33713d7334ebe14100e46a",
+      "size": 4292,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/7b41e05926e3191fca33713d7334ebe14100e46a"
+    },
+    {
+      "path": "gender_net_definitions/train_val_test_fold_is_1.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1a4b784b2a861c82e1d154a94b471a64b9e1ccb",
+      "size": 4292,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/d1a4b784b2a861c82e1d154a94b471a64b9e1ccb"
+    },
+    {
+      "path": "gender_net_definitions/train_val_test_fold_is_2.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c73f3984a305465ece3284d6edb2bab86da3be0",
+      "size": 4292,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/8c73f3984a305465ece3284d6edb2bab86da3be0"
+    },
+    {
+      "path": "gender_net_definitions/train_val_test_fold_is_3.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8ef6692b4c7e1256d462d6bd54605c4cbd4925d",
+      "size": 4292,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/c8ef6692b4c7e1256d462d6bd54605c4cbd4925d"
+    },
+    {
+      "path": "gender_net_definitions/train_val_test_fold_is_4.prototxt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8c67f1411cf167823a985f26256b7da16ea6951",
+      "size": 4292,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/f8c67f1411cf167823a985f26256b7da16ea6951"
+    },
+    {
+      "path": "models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bed4999663ecdd87fb471ee618371b77d9756df6",
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/trees/bed4999663ecdd87fb471ee618371b77d9756df6"
+    },
+    {
+      "path": "models/age_net.caffemodel",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8391af479b658b9f4f3ace7eec6be86aae079309",
+      "size": 45661480,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/8391af479b658b9f4f3ace7eec6be86aae079309"
+    },
+    {
+      "path": "models/gender_net.caffemodel",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "87862497f48764ea24eb162c21f542c2e007311e",
+      "size": 45649168,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/87862497f48764ea24eb162c21f542c2e007311e"
+    },
+    {
+      "path": "models/mean.binaryproto",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "15c6049ca096085e3e741134b31e52e0873b534e",
+      "size": 786446,
+      "url": "https://api.github.com/repos/GilLevi/AgeGenderDeepLearning/git/blobs/15c6049ca096085e3e741134b31e52e0873b534e"
+    }
+  ],
+  "truncated": false
+}
